@@ -1,0 +1,22 @@
+{
+  "name": "labelr",
+  "version": "1.0.0",
+  "description": "Labeler for github issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhyman2/react_ampersand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhyman2/react_ampersand/issues"
+  },
+  "homepage": "https://github.com/jhyman2/react_ampersand#readme",
+  "dependencies": {
+    "surge": "^0.14.3"
+  }
+}
